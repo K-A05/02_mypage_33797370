@@ -16,7 +16,7 @@ const htmlContent = `
     <h2>About Me</h2>
     <p>Hi, my name is Karan. I am a Computer Science student and I enjoy learning about technology, cybersecurity, and drones.</p>
     <h2>Hobbies</h2>
-    <p>I like programming, working on small projects, and exploring new technologies.</p>
+    <p>I like programming, working on small projects, I like working with tools and 3d printers.</p>
 </body>
 </html>
 `;
